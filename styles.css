@@ -1,0 +1,22 @@
+/* styles.css */
+
+body {
+    color: #333;
+    background-color: lavender;
+}
+
+/* Set the text color for the h1 element */
+h1 {
+    color: #007bff;
+}
+
+/* Set the text color for the anchor tag */
+a {
+    color: #000080;
+    text-decoration: none;
+}
+
+/* Set the hover effect for the anchor tag */
+a:hover {
+    text-decoration: underline;
+}
